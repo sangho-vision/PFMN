@@ -43,6 +43,7 @@ We appreciate Joonil Na, Jaemin Cho and [Juyong Kim](http://juyongkim.com/) for 
 ## Authors
 
 Sangho Lee, Jinyoung Sung, [Youngjae Yu](https://yj-yu.github.io/home/) and [Gunhee Kim](http://vision.snu.ac.kr/~gunhee/)
+
 [Vision and Learning Lab](http://vision.snu.ac.kr/) @ Computer Science and Engineering, Seoul National University, Seoul, Republic of Korea
 
 ## Reference
