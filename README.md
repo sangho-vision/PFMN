@@ -38,7 +38,7 @@ sudo apt-get install libffi-dev libssl-dev
 
 ## Acknowledgement
 
-We appreciate Joonil Na, Jaemin Cho and Juyong Kim for helpful comments and discussions.
+We appreciate Joonil Na, Jaemin Cho and [Juyong Kim](http://juyongkim.com/) for helpful comments and discussions.
 
 ## Authors
 
