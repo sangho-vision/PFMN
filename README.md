@@ -11,7 +11,7 @@ PFMN first computes the score of 81 normal field of view (NFOV) region proposals
 We empirically validated that the proposed memory network approach outperformed other state-of-the-art methods, not only for view selection but also for story-based temporal summarization in both 360 videos and photostreams.
 
 Skipping the view selection step, our PFMN is also applicable to conventional video summarization with no modification.
-**Because of lincensing issues, here we present only the memory network component and our newly collected conventional video dataset from YouTube.**
+**Because of lincensing issues, here we present only the memory network component ((b) and (c) of above figure)) and our newly collected conventional video dataset from YouTube.**
 
 ## Dataset
 The subset of Yahoo Flickr 100M used in our work will be available soon,
