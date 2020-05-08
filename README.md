@@ -27,9 +27,9 @@ Sangho Lee, Jinyoung Sung, [Youngjae Yu](https://yj-yu.github.io/home/) and [Gun
 
 If you use this code or dataset as part of any published research, please refer to the following paper.
 ```
-@inproceedings{PFMN:2018:CVPR,
+@inproceedings{lee2018pfmn,
     author    = {Sangho Lee and Jinyoung Sung and Youngjae Yu and Gunhee Kim},
-    title     = "{A Memory Network Approach for Story-based Temporal Summarization of 360\deg~Videos}"
+    title     = {{A Memory Network Approach for Story-based Temporal Summarization of 360\deg~Videos}},
     booktitle = {CVPR},
     year      = 2018
 }
