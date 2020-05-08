@@ -31,7 +31,7 @@ If you use this code or dataset as part of any published research, please refer 
     author    = {Sangho Lee and Jinyoung Sung and Youngjae Yu and Gunhee Kim},
     title     = {{A Memory Network Approach for Story-based Temporal Summarization of 360\deg~Videos}},
     booktitle = {CVPR},
-    year      = 2018
+    year      = {2018}
 }
 ```
 
